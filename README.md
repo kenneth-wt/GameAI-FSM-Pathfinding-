@@ -1,5 +1,4 @@
 # GameAI-FSM-Pathfinding-
-# 🎮 Game AI – Reactive NPCs using FSM, A* & Greedy Pathfinding (Unity C#)
 
 ## 🧠 Project Overview
 
