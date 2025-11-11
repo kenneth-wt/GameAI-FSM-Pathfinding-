@@ -48,17 +48,6 @@ This project demonstrates **game AI architecture** in a top-down labyrinth envir
 
 ---
 
-## 🛠️ Tools & Technologies
-
-- **Unity Engine**
-- **C#**
-- **A\*** & **Greedy Best-First Search**
-- **Finite State Machines (DFA / Moore)**
-- **Waypoints & Graph-based Navigation**
-- **Unity Colliders & Triggers for Transitions**
-
----
-
 ## ✅ What I Learned
 
 ✔ Implemented FSM-driven decision making  
